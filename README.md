@@ -1,4 +1,4 @@
-# King's_Movies-Bot
+# King's Movies Bot
 A bot that I created to scrape a website using Nightmare.js
 
 
